@@ -1,0 +1,14 @@
+F:\python\c#\Estacionamento\bin\Debug\net8.0\Estacionamento.exe
+F:\python\c#\Estacionamento\bin\Debug\net8.0\Estacionamento.deps.json
+F:\python\c#\Estacionamento\bin\Debug\net8.0\Estacionamento.runtimeconfig.json
+F:\python\c#\Estacionamento\bin\Debug\net8.0\Estacionamento.dll
+F:\python\c#\Estacionamento\bin\Debug\net8.0\Estacionamento.pdb
+F:\python\c#\Estacionamento\obj\Debug\net8.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+F:\python\c#\Estacionamento\obj\Debug\net8.0\Estacionamento.AssemblyInfoInputs.cache
+F:\python\c#\Estacionamento\obj\Debug\net8.0\Estacionamento.AssemblyInfo.cs
+F:\python\c#\Estacionamento\obj\Debug\net8.0\Estacionamento.csproj.CoreCompileInputs.cache
+F:\python\c#\Estacionamento\obj\Debug\net8.0\Estacionamento.dll
+F:\python\c#\Estacionamento\obj\Debug\net8.0\refint\Estacionamento.dll
+F:\python\c#\Estacionamento\obj\Debug\net8.0\Estacionamento.pdb
+F:\python\c#\Estacionamento\obj\Debug\net8.0\Estacionamento.genruntimeconfig.cache
+F:\python\c#\Estacionamento\obj\Debug\net8.0\ref\Estacionamento.dll
